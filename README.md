@@ -7,4 +7,3 @@
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=Green)
 ![MySQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MySQL)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=Green)
-Follow me
